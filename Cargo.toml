@@ -1,5 +1,5 @@
 [package]
-name = "rust-crc8-fast"
+name = "crc8-fast"
 version = "0.1.0"
 edition = "2021"
 
